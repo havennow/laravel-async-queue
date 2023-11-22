@@ -1,9 +1,9 @@
 <?php
 
-namespace Barryvdh\Queue;
+namespace havennow\Queue;
 
-use Barryvdh\Queue\Connectors\AsyncConnector;
-use Barryvdh\Queue\Console\AsyncCommand;
+use havennow\Queue\Connectors\AsyncConnector;
+use havennow\Queue\Console\AsyncCommand;
 use Illuminate\Support\ServiceProvider;
 
 class AsyncServiceProvider extends ServiceProvider

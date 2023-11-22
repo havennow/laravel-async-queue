@@ -2,7 +2,7 @@
 
 namespace Barryvdh\Queue\Connectors;
 
-use Barryvdh\Queue\AsyncQueue;
+use havennow\Queue\AsyncQueue;
 use Illuminate\Queue\Connectors\DatabaseConnector;
 use Illuminate\Support\Arr;
 

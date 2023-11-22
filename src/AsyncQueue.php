@@ -1,5 +1,5 @@
 <?php
-namespace Barryvdh\Queue;
+namespace havennow\Queue;
 
 use Illuminate\Database\Connection;
 use Illuminate\Queue\DatabaseQueue;
